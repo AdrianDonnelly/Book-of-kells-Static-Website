@@ -1,14 +1,14 @@
 .title-divider {
-    border: none; /* Remove default border */
-    border-top: 2px solid white; /* Add a solid border on top */
-    width: 100%; /* Make it span the full width */
-    margin: 10px 0; /* Add some space around it */
+    border: none;
+    border-top: 2px solid white;
+    width: 100%; 
+    margin: 10px 0; 
 }
 .paragraph-divider{
-    border: none; /* Remove default border */
-    border-top: 1.5px solid white; /* Add a solid border on top */
-    width: 100%; /* Make it span the full width */
-    margin: 10px 0; /* Add some space around it */
+    border: none;
+    border-top: 1.5px solid white;
+    width: 100%; 
+    margin: 10px 0; 
     margin-bottom: 30px;
 }
 .btn {
@@ -17,7 +17,6 @@
     font-size: 16px; 
 }
 
-/* Optionally, center the text within the buttons */
 .btn-outline-light {
     display: flex;
     justify-content: center;
